@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Nền tròn màu trong suốt -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+
+    <!-- Thanh ngang dấu cộng -->
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <size android:width="24dp" android:height="2dp"/>
+            <solid android:color="#000000"/>
+        </shape>
+    </item>
+
+    <!-- Thanh dọc dấu cộng -->
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <size android:width="2dp" android:height="24dp"/>
+            <solid android:color="#000000"/>
+        </shape>
+    </item>
+
+</layer-list>

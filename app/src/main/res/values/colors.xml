@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Màu xanh dương cho status bar và search bar -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_dark">#1976D2</color>
+    <color name="color_selected_bottom_nav">#439FEB</color>
+    <color name="lightGray">#363636</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#F44336</color>
+
+</resources>

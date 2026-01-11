@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Nesvie_copyZalo</string>
+    <string name="action_tinnhan">Tin nhắn</string>
+    <string name="action_danhba">Danh bạ</string>
+    <string name="action_tuongnha">Tường nhà</string>
+    <string name="action_canhan">Cá nhân</string>
+
+    <!-- Fix lỗi nav_graph -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <!-- Spinner filter options -->
+    <string-array name="report_options">
+        <item>Tuần</item>
+        <item>Tháng</item>
+        <item>Năm</item>
+    </string-array>
+    <string-array name="period_array">
+        <item>Ngày</item>
+        <item>Tuần</item>
+        <item>Tháng</item>
+    </string-array>
+    <string-array name="report_types">
+        <item>Tổng người dùng</item>
+        <item>Người đăng ký mới</item>
+        <item>Lâu ngày không hoạt động</item>
+        <item>Người quay trở lại</item>
+    </string-array>
+
+
+</resources>

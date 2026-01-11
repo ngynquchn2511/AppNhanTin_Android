@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912808308271",
+    "project_id": "neszalo",
+    "storage_bucket": "neszalo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912808308271:android:18882d76b36b9cfc82a0da",
+        "android_client_info": {
+          "package_name": "com.example.nesvie_copyzalo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYeQV7YWO1FNr5JzSj_0rASSKrm_EV-us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

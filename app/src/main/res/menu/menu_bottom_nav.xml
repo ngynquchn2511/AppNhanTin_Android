@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/action_tinhan"
+            android:title="@string/action_tinnhan"
+             android:icon="@drawable/message_7177393"
+
+    />
+    <item android:id="@+id/action_danhba"
+        android:title="@string/action_danhba"
+        android:icon="@drawable/address_book_17022308"
+
+        />
+    <item android:id="@+id/action_tuongnha"
+        android:title="@string/action_tuongnha"
+        android:icon="@drawable/notetaking_17850630"
+
+        />
+    <item android:id="@+id/action_canhan"
+        android:title="@string/action_canhan"
+        android:icon="@drawable/user_3726295"
+
+        />
+</menu>
