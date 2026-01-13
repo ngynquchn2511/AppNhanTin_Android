@@ -1,0 +1,1 @@
+-- làm với firebase mà mà cấu hình yếu quá không chạy được nên dùng SQLite
